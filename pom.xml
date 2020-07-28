@@ -11,7 +11,7 @@
 
     <groupId>com.xchen</groupId>
     <artifactId>ms-bom</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.4</version>
 
     <packaging>pom</packaging>
 
@@ -150,7 +150,7 @@
     <scm>
         <developerConnection>scm:git:https://github.com/chen17981/demo-bom.git</developerConnection>
         <url>https://github.com/chen17981/demo-bom</url>
-        <tag>HEAD</tag>
+        <tag>ms-bom-1.4</tag>
     </scm>
 
 
