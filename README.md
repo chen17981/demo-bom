@@ -1,2 +1,3 @@
-[![Build Status](http://circleci-badges-max.herokuapp.com/img/github/chen17981/demo-bom?token=)](https://app.circleci.com/pipelines/github/chen17981/demo-bom)
+[![chen17981](https://circleci.com/gh/chen17981/demo-bom.svg?style=svg)](https://circleci.com/gh/chen17981/demo-bom)
+
 # demo-bom
